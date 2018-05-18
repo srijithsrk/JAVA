@@ -1,0 +1,31 @@
+class A
+{
+void m()
+{
+System.out.println("nidhcisuhc");
+}
+void n()
+{
+System.out.println("euwvuic");
+}
+}
+class An
+{
+public static void main(String ...args)
+{
+A o=new A()
+{
+void m()
+{
+System.out.println("isdhfsiehfgygewfgeufgu");
+}
+void n()
+{
+System.out.println("nishi jain");
+}
+};
+o.m();
+o.n();
+
+}
+}
